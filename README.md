@@ -41,12 +41,6 @@ membuat teks miring.
 
 `<small>`
 membuat teks kecil.
-
-`<sub>`
-teks subscript.
-
-`<sup>`
-teks superscript
   
 `<pre>`
 memformat teks atau kalimat.
