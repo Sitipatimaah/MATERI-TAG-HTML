@@ -24,9 +24,6 @@ memudahkan visitor atau pengunjung web melihat tulisan,video,gambar atau lainnya
 `<body>`
 Berisi konten dokumen yang terlihat, termasuk teks, gambar, tautan, dan elemen lainnya.
 
-`<h1> to <h6>`
-Heading tag, dimana <h1>level tertinggi dan <h6>level terendah. Mereka mendefinisikan heading dan subheading.
-
 `<p>`
 menandai sekumpulan teks sebagai suatu paragraf.
 
